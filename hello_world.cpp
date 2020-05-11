@@ -5,7 +5,7 @@
 int main()
 {
 
-	printf("Hello Word!\n");
+	printf("Hello World!\n");
 
 	system("pause");
 	return 0;
